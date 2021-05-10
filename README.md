@@ -1,7 +1,7 @@
 # SpringMVCprj
 스프링 웹 개발 팀프로젝트
 
-##프로젝트 개발 환경
+## 프로젝트 개발 환경
 + windows 10
 + eclipse
 + jdk 1.8
